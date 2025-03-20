@@ -1,5 +1,10 @@
 # Happy Birthday App with Jetpack Compose
 
+
+**Nama:** Nabilah Atika Rahma  
+**NRP:** 5025221005  
+**Kelas:** PPB G - Week 3
+
 Proyek ini adalah aplikasi sederhana "Happy Birthday" yang dibangun menggunakan Jetpack Compose, toolkit UI modern untuk Android.
 
 ## Memulai
